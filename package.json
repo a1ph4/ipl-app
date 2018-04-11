@@ -1,0 +1,19 @@
+{
+  "name": "socialcop",
+  "version": "1.0.0",
+  "description": "IPL Details App, Created Using NOde on Backend and Vue in the front-end",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/a1ph4/ipl-app.git"
+  },
+  "author": "Jayant Raj Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a1ph4/ipl-app/issues"
+  },
+  "homepage": "https://github.com/a1ph4/ipl-app#readme"
+}
