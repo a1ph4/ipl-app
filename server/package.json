@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server for the IPL Stats app",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./src/app.js"
+  },
+  "author": "Jayant Raj Singh",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "csv": "^3.0.2",
+    "csvtojson": "^1.1.9",
+    "express": "^4.16.3",
+    "mongodb": "^3.0.6",
+    "mongoose": "^5.0.14"
+  }
+}
